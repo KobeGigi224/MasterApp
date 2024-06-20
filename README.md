@@ -3,7 +3,7 @@
 
 # 开发背景
 在研招网上查询各个院校的硕士专业的详细信息（考试范围，拟招人数）非常麻烦，换个院校都需要重新进入查看，浏览器标签页多而乱
-（https://github.com/KobeGigi224/MasterApp/blob/main/Images/manywebpage.png）
+!(https://github.com/KobeGigi224/MasterApp/blob/main/Images/manywebpage.png)
 
 
 # 软件下载
