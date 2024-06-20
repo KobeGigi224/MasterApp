@@ -14,19 +14,19 @@
 
 # 软件操作
 
-### 打开软件
+### 1) 打开软件
 <img src="https://github.com/KobeGigi224/MasterApp/blob/main/Images/index.png">
 
-### 选择搜索引擎（目前支持Chrome，Edge，FireFox）
+### 2) 选择搜索引擎（目前支持Chrome，Edge，FireFox）
 <img src="https://github.com/KobeGigi224/MasterApp/blob/main/Images/searchengine.png">
 
-### 点击搜索后，实时显示进度
+### 3) 点击搜索后，实时显示进度
 <img src="https://github.com/KobeGigi224/MasterApp/blob/main/Images/searching.png">
 
-### 搜索完成，显示详细信息
+### 4) 搜索完成，显示详细信息
 <img src="https://github.com/KobeGigi224/MasterApp/blob/main/Images/searchdone.png">
 
-### 点击导出后，EXCEL文件所示
+### 5) 点击导出后，EXCEL文件所示
 <img src="https://github.com/KobeGigi224/MasterApp/blob/main/Images/outputexcel.png">
 
 
